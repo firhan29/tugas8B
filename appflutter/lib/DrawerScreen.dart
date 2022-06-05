@@ -12,10 +12,10 @@ class _DrawwerScreenState extends State<DrawerScreen> {
       child: ListView(
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountName: Text("Indra Gunawan"),
+            accountName: Text("firhan"),
             currentAccountPicture:
-                CircleAvatar(backgroundImage: AssetImage("../../asset/img/i4.png")),
-            accountEmail: Text("indra.084020022@unpak.ac.id"),
+                CircleAvatar(backgroundImage: AssetImage("../../asset/img/logo.png")),
+            accountEmail: Text("firhan.084020016@unpak.ac.id"),
           ),
           DrawerListTile(
             iconData: Icons.group,
