@@ -14,7 +14,7 @@ class _DrawwerScreenState extends State<DrawerScreen> {
           UserAccountsDrawerHeader(
             accountName: Text("firhan"),
             currentAccountPicture:
-                CircleAvatar(backgroundImage: AssetImage("../../asset/img/logo.png")),
+                CircleAvatar(backgroundImage: AssetImage("../../asset/img/foto.PNG")),
             accountEmail: Text("firhan.084020016@unpak.ac.id"),
           ),
           DrawerListTile(
